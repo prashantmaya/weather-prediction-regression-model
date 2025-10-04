@@ -315,8 +315,6 @@ docker-compose down
 make docker-stop
 ```
 
-
-
 ## 🔧 Configuration
 
 Configuration is managed through environment variables. Copy `.env.example` to `.env` and customize:
@@ -387,4 +385,4 @@ Project Link: [https://github.com/YOUR_USERNAME/weather-prediction-system](https
 
 ---
 
-Made with ❤️ by Your Name
+Made with ❤️ by Prashant Maya (Prashant Soni)
